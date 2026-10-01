@@ -1,0 +1,8 @@
+.DS_Store
+
+# Local AI tooling
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+.cursor/
